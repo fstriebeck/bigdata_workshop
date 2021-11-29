@@ -1,7 +1,7 @@
 # Workshop de Big Data con Apache Spark [🇪🇸]
 Material del Workshop de Big Data
 
-## Infrastructura
+## Presentacion
 
 Este trabajo presenta 3 ejemplos de procesamiento y representacion de la informacion a traves de las herramientas provistas en el workshop de bigdata-
 
