@@ -6,7 +6,7 @@ Material del Workshop de Big Data
 Este trabajo presenta 3 ejemplos de procesamiento y representacion de la informacion a traves de las herramientas provistas en el workshop de bigdata-
 
 ### Caso N°1: Analisis de acciones
-
+´´´
 Origen datos:   Libreria Yfinance
 Dataset:        '/dataset/TP/' 
 Dataset Files: All_betas ,  All_stocks, Market
@@ -14,7 +14,7 @@ Jupyter Files: Stocks_ETL_1
                Stocks_ETL_2
 Postgres?:     Si
 Dashboard:     Si
-
+´´´
 
 ### Caso N°2: Analisis de Exportaciones
 
