@@ -17,21 +17,21 @@ Dashboard:     Si
 ```
 
 ### Caso N°2: Analisis de Exportaciones
-
+```bash
 Origen datos:   FMI 
 Dataset:        '/dataset/Exports/' 
 Dataset Files: dataset_exports.csv
 Jupyter Files: Exports.ipynb
 Postgres?:     Si
 Dashboard:     Si
-
+```
 ### Caso N°3: Prediccion valores propiedades
-
+```bash
 Origen datos:   properati
 Dataset:        '/dataset/properati/' 
 Dataset Files: properati_ml.csv
 Jupyter Files: propiedades_1.ipynb , propiedades_2.ipynb
 Postgres?:     No
 Dashboard:     No
-
+```
 
